@@ -2,7 +2,7 @@
 Cruise Control MATLAB
 This program is about designing a simple cruise control simulation using MATLAB, SIMULINK, and SIMSCAPE.
 
-We first start by modelling our system using the Second Law of Newton and check the open loop response of our system.
+We first start by modelling our system using the Second Law of Newton, check and analyse the open-loop response of our system.
 Then, using MATLAB, 5 different methods are used for the control:
 
 1-PID 
