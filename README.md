@@ -17,4 +17,4 @@ Then, using MATLAB, 5 different methods are used for the control:
 
 Finally, we use SIMULINK and SIMSCAPE to simulate and control the simple cruise-control system.
 
-Start with the MATLAB, then use SIMULINK, and finally SIMSCAPE.
+Start with the MATLAB, then use SIMULINK to model and control, and finally SIMSCAPE.
